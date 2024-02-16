@@ -9,6 +9,6 @@ Une réponse claire est apportée dans un onglet de prédiction, renseignant le 
     - Création des mesures, des graphiques, des indicateurs avec valeurs cibles, des alertes apparaissant à l'écran et des situations de filtres complexes (DAX)  
     - Codage en DAX des éléments de design et d'interface pour optimiser l'expérience utilisateur (onglets intéractifs, reset...)  
     - Onglet de présentation  
-    - Onglet de prédiction pour suggérer les meilleurs cibles selon le contexte choisi par le décideur
+    - Onglet de prédiction pour suggérer les meilleurs cibles selon le contexte choisi par le décideur  
     - Présentation formative
 
